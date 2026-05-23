@@ -77,15 +77,5 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RonitKumar145.RonitKumar145&"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
 
 ###
