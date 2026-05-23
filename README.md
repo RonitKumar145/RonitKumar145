@@ -2,12 +2,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <br clear="both">
 
 <h4 align="center">I am a Full-Stack Web Developer specializing in the MERN ecosystem. I build fast, responsive, and dynamic web applications that prioritize user experience without compromising on backend performance.<br><br>Currently a 2nd-year B.Tech CSE student, a keen eye for detail and a love for building immersive digital experiences. I believe in clean code, user-centric design, and pushing the boundaries of what's possible on the web. Whether it’s optimizing a database query in MongoDB or styling a component in React, I am driven by the goal of building technology that makes an impact.</h4>
@@ -76,7 +70,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/RonitKumar145/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -90,6 +84,13 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RonitKumar145.RonitKumar145&"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/stats-output/stats.svg" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
