@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/maurodesouzaRonitKumar145/languages-output/languages.svg" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
 ###
@@ -76,20 +76,20 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/maurodesouzaRonitKumar145/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/RonitKumar145/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/maurodesouzaRonitKumar145/pacman-output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/maurodesouzaRonitKumar145/pacman-output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouzaRonitKumar145/maurodesouzaRonitKumar145/pacman-output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/pacman-output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/pacman-output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/pacman-output/pacman-contribution-graph.svg">
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouzaRonitKumar145.maurodesouzaRonitKumar145&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RonitKumar145.RonitKumar145&"  />
 </div>
 
 ###
