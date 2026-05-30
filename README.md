@@ -1,8 +1,7 @@
 <div align="center">
 
 <!-- Custom Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=200&section=header&text=Ronit%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18" />
-
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,100:06B6D4&height=250&section=header&text=Ronit%20Kumar&fontSize=65&fontColor=ffffff&animation=fadeIn&desc=AI%20%7C%20ML%20%7C%20GenAI%20Engineer&descAlignY=65&descSize=20)
 </div>
 
 <br />
