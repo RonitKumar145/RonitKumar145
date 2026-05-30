@@ -1,81 +1,106 @@
-<h2 align="left">Hi 👋! My name is Ronit Kumar and I'm a CS student, from India</h2>
+<div align="center">
 
-###
+<!-- Custom Header Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=26&height=200&section=header&text=Ronit%20Kumar&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Aspiring%20AI%20%26%20ML%20Engineer&descAlignY=55&descSize=18" />
 
-<br clear="both">
-
-<h4 align="center">I am a Full-Stack Web Developer specializing in the MERN ecosystem. I build fast, responsive, and dynamic web applications that prioritize user experience without compromising on backend performance.<br><br>Currently a 2nd-year B.Tech CSE student, a keen eye for detail and a love for building immersive digital experiences. I believe in clean code, user-centric design, and pushing the boundaries of what's possible on the web. Whether it’s optimizing a database query in MongoDB or styling a component in React, I am driven by the goal of building technology that makes an impact.</h4>
-
-###
-
-<img align="left" height="150" src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/versions/generation-v/black-white/animated/25.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="30" alt="fastapi logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
-###
-
-<br clear="both">
+<br />
 
 <div align="center">
-  <a href="https://www.instagram.com/ronit_kumar_singh" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=plastic" height="35" alt="instagram logo"  />
-  </a>
-  <a href="ronitkumar145@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="35" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/ronit-kumar-64271b258" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="35" alt="linkedin logo"  />
-  </a>
+  <h3>⚡ Tech Stack & Tools</h3>
+  <img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,react,nextjs,nodejs,mongodb,git,github,vscode,linux,tailwind,java&perline=8&theme=dark" />
 </div>
 
-###
+<br />
 
-<br clear="both">
+<div align="center">
+  <h3>📊 GitHub Statistics</h3>
 
+  <img src="https://github-readme-streak-stats-flax.vercel.app/?user=RonitKumar145&theme=tokyonight&hide_border=true&background=1a1b26&ring=7aa2f7&fire=ff9e64&currStreakLabel=7aa2f7" alt="Streak Stats" />
+</div>
 
+<br />
 
-###
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RonitKumar145&theme=tokyonight&bg_color=1a1b26&hide_border=true" alt="Activity Graph" />
+</div>
 
+<br />
 
-###
+# 📈 Profile Summary Charts
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RonitKumar145&theme=radical" />
 
-###
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RonitKumar145&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=RonitKumar145&theme=radical" />
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RonitKumar145&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=RonitKumar145&theme=radical" />
+</p>
+
+---
+
+# 👨‍💻 About Me
+
+🎓 B.Tech in Computer Science 
+💡 Passionate about Artificial Intelligence, Machine Learning, and Full Stack Development  
+🚀 Building projects in AI, GenAI, and Web Development  
+📚 Consistently learning DSA, System Design, and Modern AI Technologies  
+🎯 Goal: Become a world-class AI Engineer and Software Developer
+
+---
+
+# 🧪 Currently Working On
+
+- Data Structures & Algorithms
+- Machine Learning Fundamentals
+- Generative AI & LLM Applications
+- Full Stack Web Development
+- Open Source Contributions
+- Building AI-powered Projects
+
+---
+
+# 🚀 Learning Roadmap 2026
+
+✅ C++ & DSA  
+✅ Python for AI/ML  
+✅ Machine Learning  
+✅ Deep Learning  
+✅ Generative AI  
+✅ LangChain & RAG Systems  
+✅ Full Stack Development  
+✅ System Design  
+✅ Open Source Contributions  
+✅ Competitive Programming
+
+---
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-1a1b26?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RonitKumar145)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ronit-kumar-64271b258)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ronit-code-portfolio.vercel.app/)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/Ronit145/)
+
+</div>
+
+<br />
+
+<div align="center">
+  <i>"Discipline beats motivation. Consistency beats talent."</i>
+  <br />
+  <br />
+  <img src="https://komarev.com/ghpvc/?username=RonitKumar145&label=Profile%20Views&color=7aa2f7&style=flat" alt="Profile Views" />
+</div>
+
+<div align="center">
+
+### ⭐ Building the future with AI, one project at a time.
+
+</div>
