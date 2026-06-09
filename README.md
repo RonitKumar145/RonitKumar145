@@ -103,3 +103,23 @@
 ### ⭐ Building the future with AI, one project at a time.
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Ronitkumar2004/Ronitkumar2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ Coffee • Code • Learn • Repeat
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E293B,100:0EA5E9"/>
+
+</div>
