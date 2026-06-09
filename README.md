@@ -106,15 +106,6 @@
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Ronitkumar2004/Ronitkumar2004/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -123,3 +114,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:0F172A,50:1E293B,100:0EA5E9"/>
 
 </div>
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RonitKumar145/RonitKumar145/output/github-contribution-grid-snake.svg">
+</picture>
+
+</div>
+
